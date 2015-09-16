@@ -1,1 +1,1 @@
-# nginx.conf.cache
+# nginx config reserve proxy and cache
